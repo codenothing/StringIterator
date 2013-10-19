@@ -3,7 +3,7 @@
 	"description": "Helper tool for iterating over a string",
 	"keywords": [ "string", "iterate", "loop" ],
 	"author": "Corey Hart <corey@codenothing.com> (http://www.codenothing.com)",
-	"version": "0.0.1",
+	"version": "0.0.2pre",
 	"main": "./index.js",
 	"homepage": "http://github.com/codenothing/StringIterator/",
 	"engines": {
