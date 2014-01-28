@@ -2,7 +2,8 @@
 
 Helper tool for iterating over a string
 
-[![Build Status](https://travis-ci.org/codenothing/StringIterator.png?branch=master)](https://travis-ci.org/codenothing/StringIterator)  
+[![Build Status](https://travis-ci.org/codenothing/StringIterator.png?branch=master)](https://travis-ci.org/codenothing/StringIterator)
+[![Code Climate](https://codeclimate.com/github/codenothing/StringIterator.png)](https://codeclimate.com/github/codenothing/StringIterator)
 
 
 ### Installation
