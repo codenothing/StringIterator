@@ -2,6 +2,7 @@
 
 Helper tool for iterating over a string
 
+[![NPM version](https://badge.fury.io/js/string-iterator.png)](http://badge.fury.io/js/string-iterator)
 [![Build Status](https://travis-ci.org/codenothing/StringIterator.png?branch=master)](https://travis-ci.org/codenothing/StringIterator)
 [![Code Climate](https://codeclimate.com/github/codenothing/StringIterator.png)](https://codeclimate.com/github/codenothing/StringIterator)
 
